@@ -1,2 +1,0 @@
-# MyMaps
-Maps app
